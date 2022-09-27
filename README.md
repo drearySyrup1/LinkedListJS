@@ -14,20 +14,20 @@ Part of The Odin Project assignments
 
 ### Functions
 
-- append(value) `adds a new node containing value to the end of the list`
+- `append(value)` adds a new node containing value to the end of the list
 
-- prepend(value) `adds a new node containing value to the start of the list`
+- `prepend(value)` adds a new node containing value to the start of the list
 
-- at(index) `returns the node at the given index`
+- `at(index)` returns the node at the given index
 
-- pop `removes the last element from the list`
+- `pop` removes the last element from the list
 
-- contains(value) `returns true if the passed in value is in the list and otherwise returns false.`
+- `contains(value)` returns true if the passed in value is in the list and otherwise returns false.
 
-- find(value) `returns the index of the node containing value, or null if not found.`
+- `find(value)` returns the index of the node containing value, or null if not found.
 
-- toString `represents LinkedList as string. Format: ( value ) -> ( value ) -> ( value ) -> null`
+- `toString` represents LinkedList as string. Format: ( value ) -> ( value ) -> ( value ) -> null
 
-- insertAt(value, index) `inserts a new node with the provided value at the given index.`
+- `insertAt(value, index)` inserts a new node with the provided value at the given index.
 
-- removeAt(index) `removes the node at the given index.`
+- `removeAt(index)` removes the node at the given index.
