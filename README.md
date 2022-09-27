@@ -6,11 +6,11 @@ Part of The Odin Project assignments
 
 ### Properties
 
-- size returns the total number of nodes in the list
+- `size` returns the total number of nodes in the list
 
-- head returns the first node in the list
+- `head` returns the first node in the list
 
-- tail returns the last node in the list
+- `tail` returns the last node in the list
 
 ### Functions
 
