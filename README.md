@@ -2,6 +2,8 @@
 
 Part of The Odin Project assignments
 
+**This implementation uses classes and recursion**.
+
 ## This implementation has following functions and properties
 
 ### Properties
